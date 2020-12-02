@@ -91,6 +91,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
+- [Wasp - a DSL for building full-stack web apps with React/Node.js/Prisma](https://wasp-lang.dev/)
 
 ## Prisma 1
 
